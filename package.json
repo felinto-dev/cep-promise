@@ -1,10 +1,9 @@
 {
-  "name": "cep-promise",
+  "name": "@felinto-dev/cep-promise",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
-  "private": true,
-  "license": "UNLICENSED",
+  "description": "Um wrapper da biblioteca cep-promise para NestJS.",
+  "author": "Felinto",
+  "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
